@@ -1,0 +1,16 @@
+{
+  "python.autoComplete.extraPaths": [
+    "/home/ubu22/WorkSpaces/ROS2_ADI_ws/install/miradar_node/local/lib/python3.10/dist-packages",
+    "/home/ubu22/WorkSpaces/ROS2_ADI_ws/install/miradar_msgs/local/lib/python3.10/dist-packages",
+    "/home/ubu22/WorkSpaces/ROS2_ADI_ws/install/adi_tmcl/local/lib/python3.10/dist-packages",
+    "/opt/ros/humble/lib/python3.10/site-packages",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages"
+  ],
+  "python.analysis.extraPaths": [
+    "/home/ubu22/WorkSpaces/ROS2_ADI_ws/install/miradar_node/local/lib/python3.10/dist-packages",
+    "/home/ubu22/WorkSpaces/ROS2_ADI_ws/install/miradar_msgs/local/lib/python3.10/dist-packages",
+    "/home/ubu22/WorkSpaces/ROS2_ADI_ws/install/adi_tmcl/local/lib/python3.10/dist-packages",
+    "/opt/ros/humble/lib/python3.10/site-packages",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages"
+  ]
+}
